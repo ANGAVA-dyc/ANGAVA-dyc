@@ -1,32 +1,34 @@
 # Hola, soy Rosario 👋
 
-Soy analista de soporte tecnológico con una gran pasión por el diseño en todas sus formas. Soy enérgica, imaginativa y me encanta estudiar. Actualmente estoy ampliando mis conocimientos en programación y diseño a través de cursos y estudios en la universidad.
+Soy analista de soporte tecnológico con una profunda pasión por el diseño en todas sus formas. Me caracterizo por mi energía, creatividad y amor por el aprendizaje. Actualmente, estoy ampliando mis conocimientos en programación y diseño a través de cursos y estudios universitarios.
 
 ## 🛠️ Experiencia
 
-Tengo experiencia en diseño y programación gracias a los cursos que he tomado y a mi formación académica. Actualmente, estoy desarrollando varios proyectos que están en construcción, donde aplico mis habilidades en un ambiente práctico.
+He adquirido experiencia en diseño y programación a través de diversos cursos y mi formación académica. En este momento, estoy trabajando en varios proyectos que me permiten aplicar y perfeccionar estas habilidades en un entorno práctico.
 
 ## 🌟 Habilidades
 
 - **Lenguajes y tecnologías:** React, Next.js
-- **Diseño:** Ilustrator, Figma
+- **Diseño:** Illustrator, Figma
 
 ## 🚀 Proyectos
 
-En este momento, estoy trabajando en mi sitio web personal y otros proyectos en desarrollo. Estén atentos para más actualizaciones.
+Estoy en pleno desarrollo de mi sitio web personal y otros proyectos interesantes. ¡Mantente al tanto para conocer más detalles pronto!
 
 ## 🎨 Intereses
 
-Aparte de la tecnología, tengo varios pasatiempos que me apasionan:
+Además de mi interés por la tecnología, tengo una variedad de pasatiempos que disfruto:
 - La música
-- Ilustrar
-- Tejer
-- Cuidar de mis plantas y, por supuesto, mis gatos
+- La ilustración
+- El tejido
+- Cuidar de mis plantas y, por supuesto, de mis gatos
 
 ## 🌈 Objetivos
 
-Mi gran meta es poder vivir de lo que me apasiona: la ilustración, el diseño y la programación. Estoy emocionada por la trayectoria que estoy construyendo y las oportunidades que vendrán.
+Mi objetivo es vivir de lo que me apasiona: la ilustración, el diseño y la programación. Estoy entusiasmada por el camino que estoy trazando y las oportunidades que se avecinan.
 
 ---
 
-¡Gracias por visitar mi perfil! Si deseas conectar o colaborar, no dudes en contactarme.
+¡Gracias por visitar mi perfil! Si te gustaría conectar o colaborar, no dudes en contactarme.
+
+
